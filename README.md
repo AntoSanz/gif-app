@@ -8,6 +8,7 @@ Este ejercicio es parte del repositorio
 # Aplicacion desplegada
 
 [Netlify](https://gif-expert-app-asanz.netlify.app/)
+
 [Github Pages](https://antosanz.github.io/gif-expert-app/)
 
 
