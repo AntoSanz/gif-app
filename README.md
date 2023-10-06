@@ -1,7 +1,8 @@
 # Curso React Udemy
 
 React: De cero a experto ( Hooks y MERN )
-Todos los commits estan en el repositorio <url src="https://github.com/AntoSanz/Curso-React-Udemy">Curso-React-Udemy</url>
+Este ejercicio es parte del repositorio
+[Curso-React-Udemy](https://github.com/AntoSanz/Curso-React-Udemy).
 
 
 # Aplicacion desplegada
