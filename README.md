@@ -7,7 +7,8 @@ Este ejercicio es parte del repositorio
 
 # Aplicacion desplegada
 
-04-gif-expert-app: https://gif-expert-app-asanz.netlify.app/
+[Netlify](https://gif-expert-app-asanz.netlify.app/)
+[Github Pages](https://antosanz.github.io/gif-expert-app/)
 
 
 # React + Vite
