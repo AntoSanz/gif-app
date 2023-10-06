@@ -2,7 +2,7 @@
 
 React: De cero a experto ( Hooks y MERN )
 Este ejercicio es parte del repositorio
-[Curso-React-Udemy](https://github.com/AntoSanz/Curso-React-Udemy).
+[Udemy-React](https://github.com/AntoSanz/Curso-React-Udemy).
 
 
 # Aplicacion desplegada
